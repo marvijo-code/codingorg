@@ -2,6 +2,7 @@
 
 ## Team Composition
 - Use latest version of CrewAI Flows and CrewAI Crews to represent the Software Development team
+- Use uv and a local venv environment
 - The team should start with a Development Manager and a Senior Software Engineer
 - Add Aider (https://github.com/Aider-AI/aider) as a CrewAI tool
 - Use Aider to do all the coding tasks (https://github.com/Aider-AI/aider)

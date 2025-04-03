@@ -1,0 +1,10 @@
+# Ignore environment variables specific to the backend
+.env
+*.env
+.env.*
+!.env.example
+
+# Ignore Python cache specific to backend if not covered globally
+__pycache__/
+*.py[cod]
+*$py.class
